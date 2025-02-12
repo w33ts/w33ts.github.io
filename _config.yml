@@ -13,7 +13,7 @@ title                    : "Aaron Fillmore"
 title_separator          : "-"
 name                     : &name "Aaron Fillmore"
 description              : &description "personal description"
-url                      : https://w33t.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://w33ts.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "w33ts/w33ts.github.io"
 
