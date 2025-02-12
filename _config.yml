@@ -22,7 +22,7 @@ repository               : "w33ts/w33ts.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-af.jpg"
   name             : "Aaron 'w33t' Fillmore"
   pronouns         : # example: "she/her"  
   bio              : "I am a United States-based Information Security Engineer with a passion for cybersecurity and offensive security."
