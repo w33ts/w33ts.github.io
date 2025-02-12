@@ -1,6 +1,6 @@
 ---
 title: "WWHF Denver 2025 Team Attack and Defense"
-collection: teaching
+collection: ctfs
 type: "Attack and Defense"
 permalink: /ctfs/wwhf-denver-2025-team-attack-defense
 venue: "University 1, Department"
