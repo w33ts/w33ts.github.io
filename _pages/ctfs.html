@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "CTFs"
+permalink: /ctfs/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.ctfs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
