@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "WWHF Denver 2025 Team Attack and Defense"
+collection: ctfs
 type: "Undergraduate course"
 permalink: /ctfs/2025-wwhf-team-attack-defense
 venue: "University 1, Department"
