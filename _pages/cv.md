@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* EPRI | November 2022 - Present
+* EPRI / Information Security Engineer II / November 2022 - Present
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
