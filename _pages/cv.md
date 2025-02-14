@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* D.Eng in Cybersecurity Analytics, The George Washington University, 2027 (expected)
+* M.S. in Cybersecurity and Information Assurance, Western Governors University, 2024
+* B.S. in Cybersecurity and Information Assurance, Western Governors University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* EPRI | November 2022 - Present
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
