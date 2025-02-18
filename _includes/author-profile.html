@@ -81,7 +81,13 @@
       {% endif %}      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
-      {% endif %}      
+      {% endif %}   
+      {% if author.hackthebox %}
+        <li><a href="https://app.hackthebox.com/profile/{{ author.hackthebox }}"><i class="fab fa-fw fa-stack-square icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
+      {% endif %} 
+      {% if author.tryhackme %}
+        <li><a href="https://tryhackme.com/p/{{ author.tryhackme }}"><i class="fab fa-fw fa-stack-cloud icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
+      {% endif %} 
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
