@@ -17,29 +17,97 @@ Education
 
 Work experience
 ======
-* EPRI / Information Security Engineer II / November 2022 - Present
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Cyber Info
+  * President & Director
+  * January 2023 - Present
+  * Remote
+    
+* EPRI
+  * Information Security Engineer II
+  * November 2022 - Present
+  * Remote
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dank Memer Bot (Contract)
+  * Security Analyst
+  * August 2022 - Present
+  * Remote
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Deepwatch
+  * Security Analyst III
+  * August 2022 - November 2022
+  * Remote
+    
+* 11:11 SYSTEMS / Green Cloud Defense
+  * SOC Analyst II
+  * July 2021 - August 2022
+  * Remote
+
+* KleinHacks
+  * Technology Director
+  * June 2019 - May 2022
+  * Remote
+
+* Imprezzio
+  * NOC Technician
+  * December 2019 - November 2020
+  * Remote/On-site
+ 
+* Digital Edge LLC
+  * Chief Executive Officer
+  * April 2019 - April 2023
+  * Remote/On-site
+ 
+* ABC Office Equipment
+  * Network Engineer
+  * October 2018 - April 2019
+  * On-site
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Defensive
+  * Risk Assessment and Management
+  * Digital Forensics
+  * Incident Response
+* Offensive
+  * Penetration Testing
+  * Simple Exploit Development
+  * Breach Attack Simulation
+  * Adversary Emulation
+  * Red Team Infrastructure
+* Misc
+  * Meme Development
+  * 
+
+Technologies
+======
+* SIEM/SOAR
+  * Splunk
+  * FortiSIEM
+  * Cortex XSOAR
+  * SentinelOne XDR
+  * Wazuh
+  * Exabeam
+* EDR Tools
+  * SentinelOne
+  * CrowdStrike
+  * Microsoft Defender ATP
+* C2 Frameworks
+  * Cobalt Strike
+  * Mythic C2
+  * Metasploit
+  * Empire/Starkiller
+* Forensic Tools
+  * Ghidra
+  * Autopsy
+  * FTK Imager
+  * Volatility2 and Volatility3
+* General Tools
+  * Burp Suite Professional
+  * Wireshark
+* Programming Languages
+  * Working PowerShell Knowledge
+  * Working Python Knowledge
+  * Working Bash Knowledge
 
 Publications
 ======
