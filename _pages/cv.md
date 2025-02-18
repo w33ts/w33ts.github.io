@@ -64,19 +64,22 @@ Work experience
   
 Skills
 ======
+* General
+  * Systems Engineering
+  * Network Administration
+  * Meme Development
 * Defensive
   * Risk Assessment and Management
   * Digital Forensics
   * Incident Response
+  * Malware Analysis
+  * Detection Engineering
 * Offensive
   * Penetration Testing
   * Simple Exploit Development
   * Breach Attack Simulation
   * Adversary Emulation
   * Red Team Infrastructure
-* Misc
-  * Meme Development
-  * 
 
 Technologies
 ======
@@ -108,6 +111,12 @@ Technologies
   * Working PowerShell Knowledge
   * Working Python Knowledge
   * Working Bash Knowledge
+
+CTFs
+======
+  <ul>{% for post in site.ctfs reversed %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
