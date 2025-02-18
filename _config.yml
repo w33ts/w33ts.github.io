@@ -48,8 +48,8 @@ author:
   github           : "w33ts"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
-  hackthebox       : "https://app.hackthebox.com/profile/353518"
-  tryhackme        : "https://tryhackme.com/p/w33t"
+  hackthebox       : "353518"
+  tryhackme        : "w33t"
 
   # Social media
   bluesky          : "w33t.io" # Replace this with you Bluesky username
