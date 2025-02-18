@@ -115,7 +115,7 @@ Technologies
 CTFs
 ======
   <ul>{% for post in site.ctfs reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-ctf-cv.html %}
   {% endfor %}</ul>
 
 Publications
