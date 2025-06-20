@@ -50,6 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
   hackthebox       : "353518"
   tryhackme        : "w33t"
+  credly           : "w33t"
 
   # Social media
   bluesky          : "w33t.io" # Replace this with you Bluesky username
