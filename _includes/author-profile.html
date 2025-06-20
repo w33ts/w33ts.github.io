@@ -87,6 +87,9 @@
       {% endif %} 
       {% if author.tryhackme %}
         <li><a href="https://tryhackme.com/p/{{ author.tryhackme }}"><i class="fab fa-fw fa-clouds icon-pad-right" aria-hidden="true"></i>TryHackMe</a></li>
+      {% endif %}
+      {% if author.credly %}
+        <li><a href="https://www.credly.com/users/{{ author.tryhackme }}"><i class="fab fa-fw fa-clouds icon-pad-right" aria-hidden="true"></i>Credly</a></li>
       {% endif %} 
 
       <!-- Font Awesome icons / Social media -->
